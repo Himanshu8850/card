@@ -1,0 +1,23 @@
+.img1{
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.b1{
+    display: block;
+    margin: 50px auto;
+    width:600px;
+    display:flex;
+    justify-content: space-around;
+    border: 2px solid rgb(0, 255, 255);
+    border-bottom: 8px solid rgb(0, 225, 255);
+}
+.note{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.color{
+    background: rgb(0, 255, 247);
+    color: rgb(1, 13, 46);
+}
